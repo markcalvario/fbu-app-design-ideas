@@ -34,6 +34,7 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
   * User can search for other users within the university
   * User can favorite products/services
   * User can view a feed of products/services
+  * Search by categories
 
 **Optional Nice-to-have Stories**
 
@@ -53,9 +54,9 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home/Feed
+* Profile
+* Search
 
 **Flow Navigation** (Screen to Screen)
 
@@ -111,13 +112,17 @@ Users can look for local artists willing to create art such as sculptures, ceram
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User can post their art pieces to their profile
+* User can create a new account
+* User can login
+* User has the option to sell their art piece
+* User can lookup by art category or by typing up something
+* Feed has art pieces uploaded by other users
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Users can message other users
+* Use machine learning to have a custom feed
 
 ### 2. Screen Archetypes
 
@@ -132,9 +137,9 @@ Users can look for local artists willing to create art such as sculptures, ceram
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home/Feed
+* Profile
+* Search
 
 **Flow Navigation** (Screen to Screen)
 
