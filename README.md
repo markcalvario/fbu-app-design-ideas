@@ -16,7 +16,7 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Social, Buy/Sell, Marketplace
-- **Mobile:**
+- **Mobile:** Users need a phone to take a picture of their college/university ID so that their identity can be verified. Notifications can be sent to users regarding an interest in buyers or sellers.
 - **Story:** Creates a marketplace between students/affiliates so that they can help each other out. Allows students/affiliates of a certain community to get their services out into their own community.
 - **Market:** Any university or college student that can verify their status within the university are able to utilize this app. Custom features could be used for monetization such as ads or taking 5-10% of sales. 
 - **Habit:** Students/affiliates are constantly using this app whenever they need a service or buy an item. Sellers can sell or offer services for money while buyers are constantly looking.
@@ -106,7 +106,7 @@ Users can look for local artists willing to create art such as sculptures, ceram
 ### App Evaluation
 [Evaluation of your app across the following attributes]
 - **Category:** Social, Buy/Sell, Marketplace
-- **Mobile:** 
+- **Mobile:** Mobile is needed to upload photos directly from phone and to send notifications to users about potential clients.
 - **Story:** Creates a marketplace between students/affiliates so that they can help each other out. Allows students/affiliates of a certain community to get their services out into their own community.
 - **Market:** Any artist who wants their work exposed espeically within their local community. Custom features could be used for monetization such as ads or taking 5-10% of sales. 
 - **Habit:** Students/affiliates are constantly using this app whenever they need a service or buy an item. Sellers can sell or offer services for money while buyers are constantly looking.
