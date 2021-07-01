@@ -28,8 +28,12 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+  * User can post a new product/service to their profile
+  * User can create a new account
+  * User can login
+  * User can search for other users within the university
+  * User can favorite products/services
+  * User can view a feed of products/services
 
 **Optional Nice-to-have Stories**
 
