@@ -42,13 +42,18 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
 * ...
 
 ### 2. Screen Archetypes
-
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+  * User can login
+* Registration Screen
+  * User can create a new account
+* Stream
+  * User can view a feed of products/services
+  * User can favorite products
+* Creation
+  * User can post a product/service they are offering
+* Search
+  * User can search for other users
+  * User can search through different product/service categories
 
 ### 3. Navigation
 
@@ -57,6 +62,7 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
 * Home/Feed
 * Profile
 * Search
+* Creation
 
 **Flow Navigation** (Screen to Screen)
 
@@ -126,12 +132,17 @@ Users can look for local artists willing to create art such as sculptures, ceram
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login Screen
+  * User can login
+* Registration Screen
+  * User can create a new account
+* Stream
+  * User can view a feed of art pieces 
+* Creation
+  * User can post an art piece in their portfolio and have the option to display it as on sale
+* Search
+  * User can search for other users
+  * User can search through art caterogies
 
 ### 3. Navigation
 
@@ -140,6 +151,7 @@ Users can look for local artists willing to create art such as sculptures, ceram
 * Home/Feed
 * Profile
 * Search
+* Creation
 
 **Flow Navigation** (Screen to Screen)
 
