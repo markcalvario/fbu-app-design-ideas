@@ -190,7 +190,7 @@ https://hackmd.io/L57DABciS32D4h0vQknl7g
 
 ## Overview
 ### Description
-College marketplace for a colleges (e.g. only affiliates of a school/university ) & can be entered to the college marketplace by verifying their status within the college. A new user would have to upload a student ID picture. Builds a stronger student community as students help other students.
+An app that allows delivery drivers to login into their account that is linked to the company that they are delivering for. From there, it takes in the GPS location from the driver & sends that location to the delivery company where the company then displays it out to their customers for better delivery experience. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
