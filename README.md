@@ -28,13 +28,18 @@ College marketplace for a colleges (e.g. only affiliates of a school/university 
 
 **Required Must-have Stories**
 
-  * User can post a new product/service to their profile
-  * User can create a new account
-  * User can login
-  * User can search for other users within the university
-  * User can favorite products/services
-  * User can view a feed of products/services
-  * Search by categories
+* User can login/log out 
+* User can sign up
+* User can select and access their corresponding active college/university marketplace by sending a picture of their student ID for verfiication
+* User can upload items/services to sell
+* User can see item/itmes for sale on their home page
+* User can click on the item/service for more detail
+* User can click the user's profile on the itme/service to see other items they're selling
+* User can message another user
+* User can buy directly on the platform or pay in person
+* User can search for products/services/users in the search bar
+* User can browse through products/services by category
+* Usere can favorite products/services/users
 
 **Optional Nice-to-have Stories**
 
